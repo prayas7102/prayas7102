@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Full-Stack Web and App developer and Blockchain Enthusiast from India</h3>
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Blockchain+%26+Web+Developer"></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prayas7102&label=Profile%20views&color=0e75b6&style=flat" alt="prayas7102" /> </p>
-
 - 📝 I regularly write articles on [https://link.medium.com/x7J1Ukrvsmb](https://link.medium.com/x7J1Ukrvsmb)
 
 - 💬 Ask me about **React, DSA, React Native, NFTs, MERN, DAPP, Ethereum**
