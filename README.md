@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prayas Kumar</h1>
 <h3 align="center">An Aspiring Full Stack ML Engineer from India</h3>
-<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Blockchain+%26+Web+Developer"></h3>
-<a href="https://topmate.io/prayas_kumar1"><img src="https://topmate-readme-badge.onrender.com/prayas_kumar1?style=social" alt="Connect on Topmate" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prayas7102&label=Profile%20views&color=0e75b6&style=flat" alt="prayas7102" /> </p>
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=AI/ML+%26+Backend+Developer"></h3>
 
 - 📝 I regularly write articles on [https://link.medium.com/x7J1Ukrvsmb](https://link.medium.com/x7J1Ukrvsmb)
 
